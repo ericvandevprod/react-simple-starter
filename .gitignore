@@ -1,15 +1,11 @@
-/__build__
-/__server_build__
 /node_modules
-/typings
-/tsd_typings/
+bundle.js
 npm-debug.log
-dist
-.idea
+
+# Mac
 .DS_Store
-tmp
-perf-logs
-v8.log
-*.js
-*.js.map
+
+# IntelliJ
+*.iml
+/.idea
 
